@@ -1,0 +1,3 @@
+# dodać widok o mnie do aplikacji main
+# sciezka: '/o_mnie'
+# widok - funkcja o_mnie będzie wypisywać moja imie i nazwisko
